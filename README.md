@@ -13,8 +13,8 @@
 <h2>Group2: ML Workflow with Data Analysis</h2>
 
 <h3>Predict Occurence of diabetes based on indicatiors : A supervised learning (classification!) problem </h3>
-1. Data preprocessing, feature selection and feature engineering<br>
-2. Model tuning, evaluation and validation<br>
+1. Data preprocessing, feature selection and feature engineering <br>
+2. Model tuning, evaluation and validation <br>
 
 *Goal: Build a model to predict the occurence of diabetes - tune, evaluate and validate it!*
 (Adapted from [this](https://github.com/boosuro/diabetes_prediction_with_knn) repo!)
