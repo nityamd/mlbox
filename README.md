@@ -2,7 +2,7 @@
 
 <h2>Group1: ML Algorithm Design/Implementation </h2>
 
-<h3>*k*-NN for movie recommendations : An unsupervised learning problem </h3>
+<h3>*k*-NN for movie recommendations : An supervised learning problem that's neither classification nor regression</h3>
 1. Constructing the algorithm using Euclidean distance <br>
 2. Implementing it as a recommender system on an Imdb-based dataset <br>
 
@@ -13,8 +13,8 @@
 <h2>Group2: ML Workflow with Data Analysis</h2>
 
 <h3>Predict Occurence of diabetes based on indicatiors : A supervised learning (classification!) problem </h3>
-1.<br>
-2.<br>
+1. Data preprocessing, feature selection and feature engineering<br>
+2. Model tuning, evalutation and validation<br>
 
 *Goal: Build a model to predict the occurence of diabetes - tune, evaluate and validate it!*
 (Adapted from [this](https://github.com/boosuro/diabetes_prediction_with_knn) repo!)
